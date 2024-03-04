@@ -1,0 +1,50 @@
+# Build directory
+[Bb]uild*/
+doc-build/
+build-*/
+
+# Generated source files
+src/common/scm_rev.cpp
+.travis.descriptor.json
+
+# Project/editor files
+*.swp
+*.kdev4
+.idea/
+.vs/
+.vscode/
+.cache/
+.kdev4/
+cmake-build-debug/
+cmake-build-release/
+CMakeLists.txt.user*
+
+# *nix related
+# Common convention for backup or temporary files
+*~
+
+# Visual Studio CMake settings
+CMakeSettings.json
+
+# OSX global filetypes
+# Created by Finder or Spotlight in directories for various OS functionality (indexing, etc)
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Windows global filetypes
+Thumbs.db
+
+# Python files
+*.pyc
+
+# Flatpak generated files
+.flatpak-builder/
+repo/
+
+# GitHub Actions generated files
+.ccache/
+node_modules/
+VULKAN_SDK/
