@@ -1,3 +1,8 @@
+<h1 align="center">BUILDING ON WINDOWS https://web.archive.org/web/20240229114614/https://github.com/citra-emu/citra/wiki/Building-For-Windows</h1>
+<h1 align="center">BUILDING ON MAC https://web.archive.org/web/20240304191755/https://github.com/citra-emu/citra/wiki/Building-for-macOS</h1>
+<h1 align="center">BUILDING ON LINUX https://web.archive.org/web/20240228130023/https://github.com/citra-emu/citra/wiki/Building-For-Linux</h1>
+<h1 align="center">BUILDING ON ANDROID https://web.archive.org/web/20240304193703/https://github.com/citra-emu/citra/wiki/Building-for-Android</h1>
+
 <h1 align="center">
   <br>
   <a href="https://citra-emu.org/"><img src="https://raw.githubusercontent.com/citra-emu/citra-assets/master/Main/citra_logo.svg" alt="Citra" width="200"></a>
